@@ -42,7 +42,23 @@ Projects are grouped based on data or related disciplines.
 
 ---
 
-#### 2. **Superstore Sales Dashboard**
+
+#### 2. **Clinica Sierra Vista Dashboard**
+**Objective**: Provide performance monitoring with secure Row-Level Security for various departments and countries.  
+**Tools Used**: Power BI, Canva, DAX  
+**Unique Features**:
+- RLS roles by country, segment, and product
+- Total sales insights by segment (Govt, Small Biz, Enterprise)
+- Built-in data access rules simulation  
+**Key Insight**: Government segment drove $40M+ in revenue, tracked with role-based filtering.
+
+[View on GitHub](https://github.com/Sudais143/clinica-sierra-vista-dashboard)
+
+![WhatsApp Image 2025-05-22 at 08 44 41_4f087f7c](https://github.com/user-attachments/assets/fee4d632-dc60-4bc1-897b-ee5134579715)
+
+---
+
+#### 3. **Superstore Sales Dashboard**
 **Objective**: Provide strategic insights across profit, sales channels, and product categories.  
 **Data Source**: Global Superstore Sales  
 **Tools Used**: Power BI, Excel, Figma  
@@ -54,21 +70,9 @@ Projects are grouped based on data or related disciplines.
 
 [View on GitHub](https://github.com/Sudais143/superstore-sales-dashboard)
 
----
-
-#### 3. **Clinica Sierra Vista Dashboard**
-**Objective**: Provide performance monitoring with secure Row-Level Security for various departments and countries.  
-**Tools Used**: Power BI, Canva, DAX  
-**Unique Features**:
-- RLS roles by country, segment, and product
-- Total sales insights by segment (Govt, Small Biz, Enterprise)
-- Built-in data access rules simulation  
-**Key Insight**: Government segment drove $40M+ in revenue, tracked with role-based filtering.
-
-[View on GitHub](https://github.com/Sudais143/clinica-sierra-vista-dashboard)
+![WhatsApp Image 2025-05-22 at 08 09 58_b2aea7d1](https://github.com/user-attachments/assets/7404b97e-938a-416d-bff8-f1fde0e5bec8)
 
 ---
-
 #### 4. **Pizza Sales Analytics Dashboard**
 **Objective**: Track ordering behavior, revenue by type and size, and peak sales times.  
 **Tools Used**: Power BI, Power Query, DAX  
@@ -82,16 +86,18 @@ Projects are grouped based on data or related disciplines.
 
 [View on GitHub](https://github.com/Sudais143/pizza-sales-analytics-dashboard)
 
+![WhatsApp Image 2025-05-22 at 09 33 19_698df591](https://github.com/user-attachments/assets/e2937f82-eb34-4d7a-91fa-081a383caacd)
+
 ---
 
-## 📱 UI/UX Design Contributions
+## 📱 Role Level Security
 
 ---
 
 ### 1. **Clinica Sierra Vista - Role Access Design**
 **Objective**: Design a user experience where stakeholders can view tailored data based on country and department.  
 **Design Solutions**: Built RLS views and tested multiple scenarios using Power BI’s "View as Roles" mode.  
-**Result**: Successfully embedded filtered dashboards into SharePoint and demonstrated role-restricted access to executives.
+**Result**: Successfully embedded filtered dashboards and demonstrated role-restricted access to executives.
 
 ---
 
