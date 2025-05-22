@@ -1,4 +1,4 @@
-# 📊 Data Portfolio Page
+# 📊 Portfolio Page
 
 Welcome to my Portfolio Page.
 
