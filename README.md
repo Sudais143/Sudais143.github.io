@@ -104,3 +104,4 @@ Projects are grouped based on data or related disciplines.
 Would you like to collaborate or discuss how I can help your business leverage Power BI for smarter decision-making?
 
 Let’s talk: [hajjsudais143@gmail.com](mailto:hajjsudais143@gmail.com)
+Contact: +233549362645
