@@ -11,7 +11,7 @@ Sudais Abdul Hamid is a data professional and Power BI developer passionate abou
 I am open to collaboration, remote opportunities, and innovation in civic, health, and enterprise analytics.
 
 **E-mail:** hajjsudais143@gmail.com  
-**LinkedIn:** [linkedin.com/in/sudais-abdul-hamid](https://linkedin.com/in/sudais-abdul-hamid)
+**LinkedIn:** https://www.linkedin.com/in/sudais-abdul/
 
 ---
 
