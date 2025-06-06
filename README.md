@@ -25,7 +25,23 @@ Projects are grouped based on data or related disciplines.
 
 ---
 
-#### 1. **AmaliTech HR Analytics Dashboard**
+#### 1. **Term Deposit Subscription Predictor**
+**Objective**: Predict whether a client will subscribe to a bank term deposit based on historical marketing data.  
+**Tools Used**: Python, Scikit-learn, SMOTE, Streamlit  
+**Unique Features**:
+- Built and deployed a machine learning model (Random Forest)
+- Balanced class distribution using SMOTE
+- Hosted on Streamlit for real-time user interaction  
+**Key Insight**: Subscription likelihood is significantly influenced by previous campaign outcome, contact type, and economic indicators.
+
+[View GitHub Repository](https://github.com/Sudais143/term-deposit-predictor)  
+[Launch Live Streamlit App](https://term-deposit-predictor.streamlit.app/)
+
+Term Deposit Screenshot(![screenshot](https://github.com/user-attachments/assets/c742bc56-3fbd-49ea-80a2-81f249f3c0a0)
+
+---
+
+#### 2. **AmaliTech HR Analytics Dashboard**
 **Objective**: Evaluate KPIs, training performance, tenure, and talent risk across departments.  
 **Tools Used**: Power BI, DAX, Power Query, Figma  
 **What Makes It Unique**: Combines HR indicators with risk watchlists and employee service metrics to drive decision-making.  
@@ -43,7 +59,7 @@ Projects are grouped based on data or related disciplines.
 ---
 
 
-#### 2. **Clinica Sierra Vista Dashboard**
+#### 3. **Clinica Sierra Vista Dashboard**
 **Objective**: Provide performance monitoring with secure Row-Level Security for various departments and countries.  
 **Tools Used**: Power BI, Canva, DAX  
 **Unique Features**:
@@ -58,7 +74,7 @@ Projects are grouped based on data or related disciplines.
 
 ---
 
-#### 3. **Superstore Sales Dashboard**
+#### 4. **Superstore Sales Dashboard**
 **Objective**: Provide strategic insights across profit, sales channels, and product categories.  
 **Data Source**: Global Superstore Sales  
 **Tools Used**: Power BI, Excel, Figma  
@@ -73,7 +89,7 @@ Projects are grouped based on data or related disciplines.
 ![WhatsApp Image 2025-05-22 at 08 09 58_b2aea7d1](https://github.com/user-attachments/assets/7404b97e-938a-416d-bff8-f1fde0e5bec8)
 
 ---
-#### 4. **Pizza Sales Analytics Dashboard**
+#### 5. **Pizza Sales Analytics Dashboard**
 **Objective**: Track ordering behavior, revenue by type and size, and peak sales times.  
 **Tools Used**: Power BI, Power Query, DAX  
 **User Experience**:
